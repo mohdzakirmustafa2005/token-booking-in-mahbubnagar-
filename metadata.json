@@ -1,0 +1,7 @@
+{
+  "name": "MBNR Health Token",
+  "description": "A comprehensive hospital token booking platform for Mahbubnagar, featuring real-time doctor availability and an AI-powered health assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
